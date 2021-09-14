@@ -6,4 +6,6 @@ My main field of interest lies in statistics, image processing, computer vision,
 
 You can contact me by my email: javadiamirhosein.2000@gmail.com
 
-www.linkedin.com/in/amirhosein-javadi/
+linkedin : www.linkedin.com/in/amirhosein-javadi/
+
+personal website : ee.sharif.edu/~javadi.amirhosein/
