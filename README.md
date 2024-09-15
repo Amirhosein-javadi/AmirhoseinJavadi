@@ -8,4 +8,4 @@ You can contact me by my email: amjavadi@ucsd.edu
 
 Linkedin : www.linkedin.com/in/amirhosein-javadi/
 
-Personal Website : amirhosein-javadi.github.io
+[Personal Website](amirhosein-javadi.github.io)
